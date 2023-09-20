@@ -1,3 +1,53 @@
 SAP CRM Technical
 
 ### Day 1 ###
+
+# CRM Overview
+
+CRM - Customer Releationship Management
+
+Prospecting - Identifying new customers
+
+
+Sales, Field Services ...
+
+3 High Level modules in CRM
+Marketing, Sales and Services
+
+# CRM architecture
+
+# CRM data Exchanges
+
+# CRM - Interactionn Centers - 
+CSR - Customer Service Representative
+EMAIL Server and Phone Servers
+
+
+# 3 Tire Architecture
+
+1. BSP (Presentation Layer)
+2. Business Layer
+BOL - Data Structure of the BOL holding business objects for the CRM WebClient Session
+GenIL - Generic Interaction Layer
+GenIL Model and Implementation Classes connecting ...
+
+3. Business Engince
+BAPI - API to Tables
+
+
+# Presentation Layer - Model View Controller Concept
+
+
+
+
+
+
+### Day 2 ###
+
+### Day 3 ###
+
+### Day 4 ###
+
+### Day 5 ###
+
+
